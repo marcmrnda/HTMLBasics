@@ -4,7 +4,6 @@ color: firebrick;
 font: bold;
 font-family: fantasy;
 position: relative;
-bottom: px;
 text-align: center;
 }
 
@@ -38,7 +37,22 @@ a.logo{
     border: 2px solid black;
 }
 
-ul{
+nav{
+    text-align: right;
+    position: relative;
+    bottom: 94px;
+    right: 15px;
+    font-size: x-large;
+}
+
+nav ul li{
     list-style-type: none;
+    display: inline;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    
     
 }

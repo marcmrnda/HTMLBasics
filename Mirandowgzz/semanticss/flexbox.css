@@ -1,8 +1,18 @@
 .flex-container{
-    width: 10000px;
+    width: 800px;
     height: auto;
     border: 5px solid black;
     padding: 20px;
+    background-image: url(/7b8199bced087642a39472435a6dc5f1--beetle-juice-howard-stern.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    
 }
 
 .flex-items{
@@ -10,4 +20,22 @@
     height: 200px;
     border: 5px solid black;
     text-align: center;
+
+}
+
+.flex-items-1{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    text-align: center;
+    flex-grow: 3;
+
+}
+
+body,html{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
