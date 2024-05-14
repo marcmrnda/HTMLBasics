@@ -1,0 +1,44 @@
+
+.header1{
+color: firebrick;
+font: bold;
+font-family: fantasy;
+position: relative;
+bottom: px;
+text-align: center;
+}
+
+.header2{
+    color: rgb(3, 15, 49);
+    font: bold;
+    font-family: fantasy;
+    position: relative;
+    font-size:x-large;
+    right: -116px;
+    bottom: -12px;
+    text-size-adjust: 1;
+    text-align: left;
+    }
+
+
+.p1{
+    position: relative;
+bottom: -120px;
+text-align: center;
+color: whitesmoke
+}
+
+a.logo{
+   position:absolute;
+   top: 0%;
+}
+
+.page{
+    background-color: firebrick;
+    border: 2px solid black;
+}
+
+ul{
+    list-style-type: none;
+    
+}

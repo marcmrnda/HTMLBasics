@@ -1,0 +1,26 @@
+h1{
+  color: aquamarine;  
+}
+
+#regis{
+    color: red;
+}
+
+.big{
+    color: slategray;
+}
+
+.p1{
+    font-style: italic;
+    font-size: large;
+    font-style: bold;
+    
+}
+
+body{
+    background-image: url(./OIP.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px;
+}
+
